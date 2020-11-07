@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604226218 source:d:\c实验课\200210202_郁京锜_实验六\experiment6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

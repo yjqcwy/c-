@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603339738 source:f:\c\experiment4-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1603453564 source:d:\c实验课\200210202_郁京锜_实验四\experiment4-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
